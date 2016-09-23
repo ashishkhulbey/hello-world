@@ -2,4 +2,4 @@
 my first repository
 
 hi all,
-just startimg off my jouney with github!!!
+just starting off my jouney with github!!!
